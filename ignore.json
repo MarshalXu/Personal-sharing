@@ -133,6 +133,7 @@
 			"*.old.py",
 			"*.bak.py",
 			"test*",
+			"!requirements.txt",
 			"",
 			"# user",
 			""
